@@ -11,7 +11,7 @@
    5) Write the list to a file
    6) Read the list from a file
    7) Display a single friend, specified by either name or rank
-   8) Display a statistic about what percent of names are long (A friend’s name 
+   8) Display a statistic about what percent of names are long (A friendâ€™s name 
       is long if it has more letters in it than his/her rank)
 */
 
@@ -507,7 +507,7 @@ int getInteger(string prompt)
 		}
 		cin.clear();
 		cin.ignore(999,'\n');
-		cout << "Hey, idiot!  Give me a N U M B E R!!!!" << endl;
+		cout << "Please enter a N U M B E R!!!!" << endl;
 	} while (true);
 }
 
@@ -525,7 +525,7 @@ string getString(string prompt)
 		}
 		cin.clear();
 		cin.ignore(999,'\n');
-		cout << "Hey, idiot!  Give me a string!!!!" << endl;
+		cout << "Please enter a string!!!!" << endl;
 	} while (true);
 }
 

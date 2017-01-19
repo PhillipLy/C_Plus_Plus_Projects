@@ -1,0 +1,89 @@
+Valar Bypass	San Francisco	Lake Tahoe
+Route 78	Santa Ana	San Juan Capistrano
+Highway 71	Fullerton	Tustin
+Interstate 78	Mission Viejo	Villa Park
+Kirk Expressway	Tustin	Palm Springs
+Highway 53	Palm Springs	Woodbridge
+Highway 54	Tahoe City	Sacramento
+Highway 30	Lake Tahoe	Venice
+Khan Turnpike	Brea	Anaheim
+Interstate 66	Balboa	San Clemente
+Hercules Street	Aliso Viejo	San Jose
+Heimdall Turnpike	Laguna Beach	Pasadena
+Xena Expressway	Dana Point	San Diego
+Draco Lane	San Juan Capistrano	Los Angeles
+Midgard Street	Pasadena	Corona del mar
+Interstate 86	San Bernardino	Danville
+Ruffnut Bypass	Corona del mar	Hollywood
+Stone Boulevard	San Jose	Garden Grove
+James Lane	Oakland	Napa
+Vernon Boulevard	Malibu	Big Bear City
+Spock Street	Irvine	Perris
+Highway 104	Woodbridge	Malibu
+Anna Highway	San Diego	Irvine
+Dumbledore Boulevard	San Clemente	Fullerton
+Athena Pass	Fresno	Tahoe City
+Fishlegs Lane	Newport Beach	Dana Point
+Lee Highway	Venice	Laguna Beach
+Beowulf Expressway	Villa Park	Berkeley
+Route 76	Hollywood	Orange
+Interstate 115	Coronado	Santa Ana
+Turing Street	Monterey	Bakersfield
+Washington Bypass	Big Bear City	San Bernardino
+Highway 92	Los Angeles	Fresno
+Highway 87	Sacramento	Balboa
+Apollo Parkway	Garden Grove	Brea
+CuChulainn Lane	Perris	Mission Viejo
+Interstate 54	Orange	Walnut
+Phlegma Pass	Bakersfield	Aliso Viejo
+Gene Way	Anaheim	Newport Beach
+Flying Duchman Bypass	Costa Mesa	San Francisco
+Astrid Street	Danville	Costa Mesa
+Midgard Boulevard	Westminster	Monterey
+Babbage Way	Walnut	Oakland
+Lee Turnpike	Berkeley	Coronado
+Elsa Avenue	Aliso Viejo	Santa Ana
+Highway 58	Sacramento	Fresno
+Route 97	Venice	Costa Mesa
+Tuffnut Lane	Mission Viejo	Oakland
+Interstate 72	Walnut	San Jose
+Route 75	Corona del mar	Napa
+Checkov Highway	San Francisco	San Juan Capistrano
+Stonewall Expressway	Venice	San Jose
+Merlin Way	Tustin	Bakersfield
+Route 38	Napa	Dana Point
+Flying Duchman Bypass	Costa Mesa	Balboa
+Stonewall Turnpike	San Bernardino	Westminster
+Rufeus Bypass	Palm Springs	San Diego
+Route 1	San Clemente	Irvine
+Interstate 30	Westminster	Woodbridge
+Washington Way	Woodbridge	Anaheim
+Highway 83	Pasadena	Newport Beach
+Highway 102	Palm Springs	Villa Park
+Interstate 55	Berkeley	San Diego
+Challengar Parkway	Los Angeles	San Francisco
+Goyle Lane	San Clemente	Brea
+Ares Street	Malibu	Irvine
+Beowulf Route	Anaheim	Napa
+Snape Bypass	Anaheim	San Clemente
+Highway 114	Danville	Mission Viejo
+Highway 38	Lake Tahoe	Garden Grove
+Interstate 87	Monterey	Irvine
+Sulu Street	Irvine	Berkeley
+Malfoy Pass	Perris	Napa
+Odyssey Way	Palm Springs	Monterey
+Niflheim Turnpike	Palm Springs	Pasadena
+Interstate 108	San Bernardino	Woodbridge
+Apple Boulevard	Tahoe City	Laguna Beach
+Highway 54	Anaheim	Danville
+Highway 17	San Jose	Danville
+Xena Expressway	Dana Point	Sacramento
+Cray Avenue	Fullerton	Coronado
+Draco Parkway	Coronado	Mission Viejo
+Albus Boulevard	Pasadena	San Francisco
+Dudley Avenue	Irvine	Aliso Viejo
+Sinbad Street	Orange	San Francisco
+Highway 113	San Bernardino	Irvine
+Highway 18	Mission Viejo	Napa
+Victoria Lane	Sacramento	Perris
+Enterprise Route	Bakersfield	Villa Park
